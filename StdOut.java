@@ -5,7 +5,7 @@
  *
  *  Writes data of various types to standard output.
  *
- ******************************************************************************/
+ *******************************************************************************/
 
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
